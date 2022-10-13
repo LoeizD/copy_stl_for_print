@@ -1,4 +1,6 @@
 import numpy
+
+# https://pypi.org/project/numpy-stl/
 import stl
 from stl import mesh
 
